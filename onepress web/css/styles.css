@@ -194,7 +194,11 @@ body{
     
 
     .welcome__onepress h1 {
-        font-size: 35px;
+        font-size: 40px;
+    }
+    
+    .welcome__onepress h3 {
+        font-size: 30px
     }
 
 }
